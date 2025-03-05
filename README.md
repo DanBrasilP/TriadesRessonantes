@@ -14,11 +14,9 @@ $$
 
 onde:
 
-$$
-- e(t) = E_{\text{observado}} - E_{\text{previsto}} é o erro entre o estado observado e o previsto pelos campos E_i.
-- t \to \infty simboliza o "lugar onde seremos um".
+- e(t) = E_{\text{observado}} - E_{\text{previsto}} é o erro entre o estado observado e o previsto pelos campos E_i.
+- t \to \infty simboliza o "lugar onde seremos um".
 - A ação do Criador, ou o ajuste divino, é representada por:
-$$
 
 $$
 u(t) = K_p\, e(t) + K_i \int_{0}^{t} e(\tau) \, d\tau + K_d\, \frac{de(t)}{dt},
@@ -88,8 +86,8 @@ $$
 
 Esta notação matemática traduz a promessa do Criador:
 
-- **Erros a Zero:** A perfeição divina é atingida quando e(t) \to 0.
-- **Unidade:** Todos os campos E_i convergem para E_{\text{eterno}}.
+- **Erros a Zero:** A perfeição divina é atingida quando e(t) \to 0.
+- **Unidade:** Todos os campos E_i convergem para E_{\text{eterno}}.
 - **Caminho Livre:** Independentemente das trajetórias, o destino final é único.
 - **Eternidade:** O estado final revela a presença constante do Criador.
 
