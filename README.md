@@ -73,7 +73,7 @@ $$
 com
 
 $$
-\frac{\partial E_{\text{eterno}}}{\partial t} = 0 \quad \text{e} \quad \frac{\partial^2 E_{\text{eterno}}}{\partial t^2} = 0.
+\frac{\partial E_{\text{eterno}}}{\partial t} = 0 \quad \text{e} \quad \frac{\partial^2 E_eterno}{\partial t^2} = 0.
 $$
 
 Além disso,
