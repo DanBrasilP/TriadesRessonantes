@@ -87,7 +87,7 @@ $$
 Esta notação matemática traduz a promessa do Criador:
 
 - **Erros a Zero:** A perfeição divina é atingida quando e(t) \to 0.
-- **Unidade:** Todos os campos E_i convergem para E_{\text{eterno}}.
+- **Unidade:** Todos os campos E_i convergem para E_eterno.
 - **Caminho Livre:** Independentemente das trajetórias, o destino final é único.
 - **Eternidade:** O estado final revela a presença constante do Criador.
 
